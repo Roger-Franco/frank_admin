@@ -10,6 +10,8 @@ yarn add react-router-dom;
 
 yarn add @mui/material @emotion/react @emotion/styled @mui/icons-material;
 
+yarn add react-circular-progressbar;
+
 
 
 links úteis:
