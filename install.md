@@ -14,6 +14,8 @@ yarn add react-circular-progressbar;
 
 yarn add recharts;
 
+yarn add @mui/x-data-grid; (para a tabela mais elaborada)
+
 
 
 links úteis:
