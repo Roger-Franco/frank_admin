@@ -20,6 +20,9 @@ yarn add @mui/x-data-grid; (para a tabela mais elaborada)
 deploy:
 npm install gh-pages --save-dev
 
+https://app.netlify.com/drop
+npm run build 
+
 
 links úteis:
 https://html-css-js.com/css/generator/box-shadow/
