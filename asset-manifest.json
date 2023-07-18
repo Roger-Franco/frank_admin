@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/frank_admin/static/css/main.01dd17c8.css",
+    "main.js": "/frank_admin/static/js/main.d5f60485.js",
+    "index.html": "/frank_admin/index.html",
+    "main.01dd17c8.css.map": "/frank_admin/static/css/main.01dd17c8.css.map",
+    "main.d5f60485.js.map": "/frank_admin/static/js/main.d5f60485.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01dd17c8.css",
+    "static/js/main.d5f60485.js"
+  ]
+}
