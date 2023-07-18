@@ -17,6 +17,9 @@ yarn add recharts;
 yarn add @mui/x-data-grid; (para a tabela mais elaborada)
 
 
+deploy:
+npm install gh-pages --save-dev
+
 
 links úteis:
 https://html-css-js.com/css/generator/box-shadow/
