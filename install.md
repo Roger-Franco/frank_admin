@@ -23,6 +23,9 @@ npm install gh-pages --save-dev
 https://app.netlify.com/drop
 npm run build 
 
+Site Publicado:
+https://frank-admin.netlify.app/
+
 
 links úteis:
 https://html-css-js.com/css/generator/box-shadow/
